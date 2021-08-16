@@ -1,0 +1,6 @@
+x=int(input("enter the base value:")
+y=int(input("enter the exponent value:")
+product=1
+for i in range(y):
+product*=x
+print("The value is:",product) 
